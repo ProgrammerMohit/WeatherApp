@@ -1,0 +1,72 @@
+body {
+  background-image: url("bg.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#cityName {
+  color: black;
+}
+.my-4 {
+  color: black;
+  font-family: "Comfortaa", cursive;
+}
+
+.card-body1 {
+  background-image: url("temp.png");
+  background-size: 18%;
+  background-repeat: no-repeat;
+  background-position: 15% 15%;
+}
+.card-body2 {
+  background-image: url("hum.png");
+  background-position: 15% 15%;
+  background-size: 14%;
+  background-repeat: no-repeat;
+}
+.card-body3 {
+  background-image: url("wd.png");
+  background-position: 10% 10%;
+  background-size: 20%;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand {
+  /* font-weight:bold; */
+  /* font-family: "Baloo Paaji 2", cursive; */
+  font-family: "Comfortaa", cursive;
+  font-size: 25px;
+  /* font-family: "Jost", sans-serif; */
+  /* font-family: "Montserrat", sans-serif; */
+  /* font-family: "Quintessential", cursive; */
+  /* font-family: "Roboto", sans-serif; */
+  /* font-family: "Source Code Pro", monospace; */
+  /* font-family: "Roboto", sans-serif; */
+  color: black;
+}
+
+#submit {
+  background-color: whitesmoke;
+  font-family: "Comfortaa", cursive;
+}
+#submit:hover {
+  cursor: pointer;
+  background-color: green;
+  font-family: "Comfortaa", cursive;
+  color: white;
+}
+.card-header{
+    font-family: "Comfortaa", cursive;
+}
+.list-unstyled{
+    font-family: "Comfortaa", cursive;
+}
+
+.display-6{
+    font-family: "Comfortaa", cursive;
+}
+.text-start{
+    font-family: "Comfortaa", cursive;
+}
+.d-flex{
+    font-family: "Comfortaa", cursive;
+}
